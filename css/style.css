@@ -1,0 +1,61 @@
+.cursive {
+  font-family:'Dancing Script', cursive;
+}
+h1 {
+  
+  font-family: 'Ariel', sans-serif;
+  font-weight: bold;
+}
+li {
+  list-style-type: none;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  display: inline;
+}
+
+.container {
+  position: relative;
+
+}
+
+.text-block1 {
+  position: absolute;
+  bottom: 30px;
+  left: 14px;
+  background-color: transparent;
+  padding-right: 20px;
+  margin-left: 0px;
+  margin-bottom: 35px;
+  font-size: x-large;
+  float: left;
+  font-family: 'Patrick Hand', cursive;
+  color: rgb(65, 65, 65);
+}
+.text-block2 {
+  position: absolute;
+  bottom: 0px;
+  left: 500px;
+  background-color: transparent;
+  padding-right: 20px;
+  margin-left: 0px;
+  margin-bottom: 35px;
+  font-size:x-large;
+  float: right;
+  font-family: 'Patrick Hand', cursive;
+  color: rgb(65, 65, 65);
+}
+
+
+
+.center-img {
+  max-width:900px;
+}
+
+.center {
+  align-content: stretch;
+}
